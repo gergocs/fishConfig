@@ -1,0 +1,82 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1737534170373" />
+    </e>
+    <e n="Annotate">
+      <i c="1" l="1737535434687" />
+    </e>
+    <e n="Back">
+      <i c="2" l="1737535721007" />
+    </e>
+    <e n="CMake.LoadCMakeProject">
+      <i c="1" l="1737534518271" />
+    </e>
+    <e n="CMake.ReloadCMakeProject">
+      <i c="5" l="1737534187182" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1737534898966" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="10" l="1737534891784" />
+    </e>
+    <e n="EditorCopy">
+      <i c="4" l="1737537978342" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1737534887063" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1737534886468" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="6" l="1737535714703" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1737535705159" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1737535090079" />
+    </e>
+    <e n="StepOver">
+      <i c="5" l="1737535053159" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1737535087419" />
+    </e>
+    <e n="com.intellij.execution.impl.RunConfigurable$MyCopyAction">
+      <i c="1" l="1737534618995" />
+    </e>
+    <e n="com.intellij.execution.impl.RunConfigurable$MyRemoveAction">
+      <i c="2" l="1737534093295" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="1" l="1737534653781" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+      <i c="1" l="1737535444950" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1737535699467" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$1">
+      <i c="1" l="1737534616083" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="2" l="1737534605823" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="2" l="1737534627198" />
+    </e>
+    <e n="com.jetbrains.cidr.cpp.toolchains.CPPToolchainsPanel$AddToolchainAction">
+      <i c="1" l="1737534547752" />
+    </e>
+    <e n="com.jetbrains.rdclient.actions.base.BackendAction">
+      <i c="3" l="1737535723832" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1737534601987" />
+    </e>
+  </component>
+</application>

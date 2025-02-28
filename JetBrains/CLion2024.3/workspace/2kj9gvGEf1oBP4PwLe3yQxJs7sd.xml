@@ -1,0 +1,244 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="PANDA" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="19ugdpoyjbojn" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C/C++ Header": {
+      "usageCount": 1,
+      "lastUsed": 1737535720106
+    },
+    "C/C++": {
+      "usageCount": 3,
+      "lastUsed": 1737535717056
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 3,
+      "lastUsed": 1737535677341
+    }
+  }
+}]]></component>
+  <component name="FilesOpenedOnControllerState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="70" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/test.sts" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Invalid Type</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C++">
+      <summary usageCount="4" lastUsage="1737535720106" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1737535677341" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.es2panda" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4310000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.048811983" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.16078244" />
+      <window_info anchor="bottom" id="CMake" order="5" weight="0.16078244" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.16078244" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.16078244" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info active="true" anchor="right" id="AIAssistant" order="1" visible="true" weight="0.048811983" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <unified_weights bottom="0.16078244" left="0.048811983" right="0.048811983" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Debug</value>
+      <value>CMake</value>
+      <value>Project</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="148" width="1384" height="767" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1737534632548">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="313" y="148" width="1384" height="767" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737534632548" />
+    <state width="1838" height="250" key="GridCell.Tab.0.bottom" timestamp="1737554672087">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737554672087" />
+    <state width="1838" height="250" key="GridCell.Tab.0.center" timestamp="1737554672087">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="250" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737554672087" />
+    <state width="1838" height="250" key="GridCell.Tab.0.left" timestamp="1737554672087">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="250" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737554672087" />
+    <state width="1838" height="250" key="GridCell.Tab.0.right" timestamp="1737554672087">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="250" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737554672087" />
+    <state width="1838" height="264" key="GridCell.Tab.1.bottom" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.1.center" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.1.left" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.1.right" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.2.bottom" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.2.bottom/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.2.center" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.2.center/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.2.left" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.2.left/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.2.right" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.2.right/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.3.bottom" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.3.bottom/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.3.center" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.3.center/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.3.left" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.3.left/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state width="1838" height="264" key="GridCell.Tab.3.right" timestamp="1737535090202">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1838" height="264" key="GridCell.Tab.3.right/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737535090202" />
+    <state x="469" y="182" width="1140" height="700" key="SettingsEditor" timestamp="1737534569720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="182" width="1140" height="700" key="SettingsEditor/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737534569720" />
+    <state x="676" y="166" width="631" height="701" key="find.popup" timestamp="1737534895694">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="676" y="166" width="631" height="701" key="find.popup/0.0.1920.1080/-1920.93.1920.1080@0.0.1024.768" timestamp="1737534895694" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ets_frontend/ets2panda/parser/parserImpl.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="940" column="31" selection-start-line="940" selection-start-column="31" selection-end-line="940" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ets_frontend/ets2panda/parser/parserStatusContext.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="115" column="6" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ets_frontend/ets2panda/parser/ETSparserTypes.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="66" column="34" lean-forward="true" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.sts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

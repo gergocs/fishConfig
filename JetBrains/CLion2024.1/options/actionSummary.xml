@@ -1,0 +1,175 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1710237647906" />
+    </e>
+    <e n="$Undo">
+      <i c="17" l="1710330032751" />
+    </e>
+    <e n="Annotate">
+      <i c="2" l="1710165258134" />
+    </e>
+    <e n="Back">
+      <i c="43" l="1710236951931" />
+    </e>
+    <e n="CMake.LoadCMakeProject">
+      <i c="1" l="1710237657188" />
+    </e>
+    <e n="CMake.OpenSettings">
+      <i c="1" l="1710163948428" />
+    </e>
+    <e n="CMake.ReloadCMakeProject">
+      <i c="1" l="1709894670180" />
+    </e>
+    <e n="CidrBuildRunToolbar">
+      <i c="2" l="1710235339454" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="19" l="1710237388957" />
+    </e>
+    <e n="Debug">
+      <i c="13" l="1710238609487" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="270" l="1710330172995" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="67" l="1710237495476" />
+    </e>
+    <e n="EditorCopy">
+      <i c="55" l="1710330166431" />
+    </e>
+    <e n="EditorCut">
+      <i c="4" l="1710330120060" />
+    </e>
+    <e n="EditorDelete">
+      <i c="16" l="1710330164536" />
+    </e>
+    <e n="EditorDown">
+      <i c="10" l="1710330003040" />
+    </e>
+    <e n="EditorEnter">
+      <i c="73" l="1710330234955" />
+    </e>
+    <e n="EditorLeft">
+      <i c="63" l="1710318524707" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="7" l="1710237239678" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1710164937614" />
+    </e>
+    <e n="EditorPaste">
+      <i c="76" l="1710330233078" />
+    </e>
+    <e n="EditorRight">
+      <i c="63" l="1710318494836" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="68" l="1710330000889" />
+    </e>
+    <e n="EditorTab">
+      <i c="28" l="1710330149138" />
+    </e>
+    <e n="EditorUp">
+      <i c="15" l="1710318520837" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="1" l="1709894675444" />
+    </e>
+    <e n="FindInPath">
+      <i c="15" l="1710238453417" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="2" l="1710148327108" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="50" l="1710236944151" />
+    </e>
+    <e n="NewFile">
+      <i c="2" l="1710330178387" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1710237625242" />
+    </e>
+    <e n="ReformatCode">
+      <i c="8" l="1710233387557" />
+    </e>
+    <e n="Resume">
+      <i c="8" l="1710237865655" />
+    </e>
+    <e n="Run">
+      <i c="16" l="1710238151341" />
+    </e>
+    <e n="RunToCursor">
+      <i c="1" l="1710237038402" />
+    </e>
+    <e n="SaveAll">
+      <i c="21" l="1710330236222" />
+    </e>
+    <e n="SpeedSearch">
+      <i c="5" l="1710237716444" />
+    </e>
+    <e n="StepInto">
+      <i c="10" l="1710237066261" />
+    </e>
+    <e n="StepOver">
+      <i c="13" l="1710238003185" />
+    </e>
+    <e n="Stop">
+      <i c="5" l="1710261602640" />
+    </e>
+    <e n="Synchronize">
+      <i c="17" l="1710237223681" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="5" l="1710238608080" />
+    </e>
+    <e n="Vcs.RollbackChangedLines">
+      <i c="10" l="1710165489685" />
+    </e>
+    <e n="XDebugger.CopyValue">
+      <i c="1" l="1710237423970" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1710236868577" />
+    </e>
+    <e n="com.intellij.execution.impl.RunConfigurable$MyRemoveAction">
+      <i c="6" l="1710145055911" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$result$1">
+      <i c="1" l="1710163480358" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="1" l="1710159960666" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1710238157053" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+      <i c="2" l="1710165261596" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="5" l="1710165232648" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1710237560109" />
+    </e>
+    <e n="com.jetbrains.cidr.cpp.cmake.settings.CMakeConfigurable$AddAction">
+      <i c="1" l="1710163956601" />
+    </e>
+    <e n="com.jetbrains.cidr.cpp.execution.build.CLionBuildUtil$StopBuildAction">
+      <i c="3" l="1710149171667" />
+    </e>
+    <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
+      <i c="5" l="1710166377220" />
+    </e>
+    <e n="context.load">
+      <i c="1" l="1710145158019" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="7" l="1710237947260" />
+    </e>
+  </component>
+</application>

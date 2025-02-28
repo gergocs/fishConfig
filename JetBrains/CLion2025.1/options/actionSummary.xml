@@ -1,0 +1,130 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1737534170373" />
+    </e>
+    <e n="$Redo">
+      <i c="2" l="1738153911232" />
+    </e>
+    <e n="$Undo">
+      <i c="20" l="1738159186812" />
+    </e>
+    <e n="Annotate">
+      <i c="3" l="1738158595189" />
+    </e>
+    <e n="Back">
+      <i c="12" l="1738156755526" />
+    </e>
+    <e n="CMake.OpenSettings">
+      <i c="1" l="1737705357624" />
+    </e>
+    <e n="CMake.ReloadCMakeProject">
+      <i c="5" l="1737534187182" />
+    </e>
+    <e n="CidrBuildRunToolbar">
+      <i c="28" l="1738224952835" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1738151812825" />
+    </e>
+    <e n="CopyAbsolutePath">
+      <i c="3" l="1738225106654" />
+    </e>
+    <e n="Debug">
+      <i c="3" l="1737704845012" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="234" l="1738225119119" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="34" l="1738224884464" />
+    </e>
+    <e n="EditorCopy">
+      <i c="157" l="1738224967144" />
+    </e>
+    <e n="EditorCut">
+      <i c="3" l="1738155887921" />
+    </e>
+    <e n="EditorDelete">
+      <i c="49" l="1738158521969" />
+    </e>
+    <e n="EditorDown">
+      <i c="17" l="1738224973202" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="4" l="1738158517120" />
+    </e>
+    <e n="EditorEnter">
+      <i c="53" l="1738225113246" />
+    </e>
+    <e n="EditorLeft">
+      <i c="34" l="1738223949726" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="10" l="1738154818891" />
+    </e>
+    <e n="EditorPaste">
+      <i c="152" l="1738225074101" />
+    </e>
+    <e n="EditorRight">
+      <i c="12" l="1738154945653" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="116" l="1738224982445" />
+    </e>
+    <e n="EditorTab">
+      <i c="5" l="1738155651914" />
+    </e>
+    <e n="EditorUp">
+      <i c="20" l="1738225074843" />
+    </e>
+    <e n="FindUsages">
+      <i c="7" l="1738223969069" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="48" l="1738223777119" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1737627789230" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1738224990090" />
+    </e>
+    <e n="ReformatCode">
+      <i c="6" l="1738156073327" />
+    </e>
+    <e n="Run">
+      <i c="8" l="1737705987145" />
+    </e>
+    <e n="SaveAll">
+      <i c="6" l="1738223913343" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1738154809785" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1737627645852" />
+    </e>
+    <e n="Vcs.RollbackChangedLines">
+      <i c="2" l="1738153891104" />
+    </e>
+    <e n="ViewBreakpoints">
+      <i c="1" l="1737627545978" />
+    </e>
+    <e n="com.intellij.execution.impl.RunConfigurable$MyRemoveAction">
+      <i c="2" l="1737534093295" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+      <i c="3" l="1738158598893" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="6" l="1737627549442" />
+    </e>
+    <e n="com.jetbrains.rdclient.actions.base.BackendAction">
+      <i c="6" l="1738152219190" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1737705352961" />
+    </e>
+  </component>
+</application>

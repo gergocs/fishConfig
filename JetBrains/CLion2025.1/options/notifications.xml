@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="PlatformIO plugin" displayType="STICKY_BALLOON" />
+  </component>
+</application>
